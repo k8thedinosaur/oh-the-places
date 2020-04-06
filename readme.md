@@ -1,4 +1,4 @@
-# [_{Name of project}_]()
+# [_The Places I've Been_]()
 
 #### _HTML/CSS/JS exercise for Epicodus, 4/6/20_
 
@@ -26,6 +26,10 @@ Create a website where you can keep track of all the places you've been. Each de
 * create property notes
   * Place.notes
   * _"Saw some weirdos bury a barrel in the desert; thought it had a dead body in it; called the cops; turns out it was just full of water."_
+
+* add place objects
+
+* delete place objects
 
 (ui logic to do later)
 * display info when clicked 
